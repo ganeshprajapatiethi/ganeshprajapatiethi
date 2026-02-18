@@ -1,28 +1,62 @@
-<!-- ================= MATRIX HEADER ================= -->
-
+<h1 align="center">Ganesh Prajapati</h1>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:020024,100:000000&height=260&section=header&text=GANESH%20PRAJAPATI&fontSize=48&fontColor=00FF41&animation=twinkling&fontAlignY=40&desc=Ethical%20Hacker%20|%20Cybersecurity%20Enthusiast&descColor=00FF41"/>
-</p>
-
-<!-- ================= GLITCH TEXT ================= -->
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=750&lines=Accessing+Secure+Server...;Access+Granted+✔;Initializing+Hacker+Mode...;Future+Security+Researcher;Bug+Bounty+Hunter;Never+Stop+Learning..."/>
-</p>
-
-<!-- ================= VISITOR COUNTER ================= -->
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ganeshprajapatiethi&label=PROFILE+VIEWS&color=00ff41&style=flat"/>
+Cybersecurity Enthusiast • Ethical Hacking • Linux • Python
 </p>
 
 ---
 
-# ⚡ WHO AM I
+## About
 
-```diff
-+ Name: Ganesh Prajapati
-+ Alias: Mr. Hacker
-+ Role: Cybersecurity Learner
-+ Goal: Become Elite Security Researcher
-+ Focus: Web Security | Python | Linux | Bug Bounty
+Focused on developing practical skills in cybersecurity, penetration testing, and system security.
+
+Currently investing time in:
+
+- Web Security  
+- Linux  
+- Networking  
+- Python  
+- Bug Bounty Methodology  
+
+Goal → Transition from learner to professional security researcher.
+
+---
+
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode&theme=dark">
+</p>
+
+---
+
+## GitHub Stats
+
+<p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ganeshprajapatiethi&show_icons=true&theme=dark&hide_border=true">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshprajapatiethi&layout=compact&theme=dark&hide_border=true">
+</p>
+
+---
+
+## Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshprajapatiethi&theme=github-dark&hide_border=true">
+
+---
+
+## Current Focus
+
+- Studying real-world vulnerabilities  
+- Documenting learning  
+- Building small security tools  
+- Practicing labs and CTFs  
+
+Consistency > Motivation.
+
+---
+
+## Connect
+
+<a href="https://www.linkedin.com/in/ganesh-prajapati-62665139b">
+LinkedIn
+</a>
