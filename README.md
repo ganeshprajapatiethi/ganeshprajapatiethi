@@ -1,32 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ganesh Prajapati </h1>
-<h3 align="center">Future Cybersecurity Expert | Ethical Hacker</h3>
+<!-- Animated Dark Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=GANESH%20PRAJAPATI&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Enthusiast%20|%20Ethical%20Hacker&descAlignY=60"/>
+</p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently learning **Cybersecurity & Ethical Hacking**
-- 🎯 Goal: Become Top Security Researcher
-- 💻 Love Linux, Python & Bug Bounty
-- ⚡ Fun fact: Never Stop Learning 😈
+## 👨‍💻 About Me
+
+Cybersecurity enthusiast focused on building real-world skills in:
+
+- Web Security  
+- Linux  
+- Networking  
+- Python  
+- Bug Bounty  
+
+**Goal:** Become a professional Security Researcher.
 
 ---
 
-### 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)]((https://www.instagram.com/_ganesh_fits_/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ganesh-prajapati-62665139b)
+## ⚒️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode&theme=dark"/>
+</p>
 
 ---
 
-### 🛠 Skills
-![Python](https://skillicons.dev/icons?i=python,linux,git,github,vscode)
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganeshprajapatiethi&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshprajapatiethi&layout=compact&theme=transparent&hide_border=true"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ganeshprajapatiethi&show_icons=true&theme=radical)
+## 🔥 Contribution Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshprajapatiethi&layout=compact&theme=radical)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ganeshprajapatiethi&theme=transparent&hide_border=true"/>
+</p>
 
 ---
 
-⭐️ From Mr. Hacker — Keep Hacking!
+## 🐍 Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ganesh-prajapati-62665139b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🎯 2026 Targets
+
+- Root 50+ labs  
+- Publish security tools  
+- Earn first bug bounty  
+- Contribute to open source  
+
+---
+
+> “The quieter you become, the more you can hear.”
