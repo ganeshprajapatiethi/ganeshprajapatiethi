@@ -1,4 +1,5 @@
-<!-- Animated Dark Banner -->
+<!-- ================= HEADER ================= -->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=GANESH%20PRAJAPATI&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Enthusiast%20|%20Ethical%20Hacker&descAlignY=60"/>
 </p>
@@ -7,15 +8,16 @@
 
 ## 👨‍💻 About Me
 
-Cybersecurity enthusiast focused on building real-world skills in:
+Cybersecurity enthusiast passionate about building **real-world security skills** and understanding how systems break — and how to secure them.
 
+### 🔍 Focus Areas
 - Web Security  
 - Linux  
 - Networking  
 - Python  
 - Bug Bounty  
 
-**Goal:** Become a professional Security Researcher.
+🎯 **Mission:** Transition from learner to professional **Security Researcher** through consistent practice and hands-on labs.
 
 ---
 
@@ -27,7 +29,7 @@ Cybersecurity enthusiast focused on building real-world skills in:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ganeshprajapatiethi&show_icons=true&theme=transparent&hide_border=true"/>
@@ -44,7 +46,7 @@ Cybersecurity enthusiast focused on building real-world skills in:
 
 ---
 
-## 🐍 Contributions
+## 🐍 Contribution Activity
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -52,23 +54,41 @@ Cybersecurity enthusiast focused on building real-world skills in:
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/ganesh-prajapati-62665139b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://www.instagram.com/_ganesh_fits_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/ganeshpraj0pati">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+
+<img src="https://img.shields.io/badge/Discord-shadow.rootx-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🎯 2026 Targets
+## 🎯 2026 Goals
 
-- Root 50+ labs  
-- Publish security tools  
+- Root **50+ labs**  
+- Build practical security tools  
 - Earn first bug bounty  
-- Contribute to open source  
+- Contribute to open-source projects  
+- Strengthen vulnerability research skills  
 
 ---
 
-> “The quieter you become, the more you can hear.”
+## 🧠 Philosophy
+
+> “The quieter you become, the more you are able to hear.”  
+> Consistency beats intensity.
+
+---
