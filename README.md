@@ -17,7 +17,7 @@ Cybersecurity enthusiast passionate about building **real-world security skills*
 - Python  
 - Bug Bounty  
 
-🎯 **Mission:** Transition from learner to professional **Security Researcher** through consistent practice and hands-on labs.
+🎯 **Mission:** Transition from learner to professional **Security Researcher** through consistent hands-on practice.
 
 ---
 
@@ -56,23 +56,39 @@ Cybersecurity enthusiast passionate about building **real-world security skills*
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<table>
+<tr>
+<td width="40%" align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGgwamd1bGQ2ZnhqeDdmbmY0bW5haHBpbWN0OXJ0b3RtczAwb2FlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" width="260"/>
+
+</td>
+
+<td width="60%" align="left">
 
 <a href="https://www.linkedin.com/in/ganesh-prajapati-62665139b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<br><br>
+
 <a href="https://www.instagram.com/_ganesh_fits_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="https://tryhackme.com/p/ganeshpraj0pati">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/Discord-shadow.rootx-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -81,8 +97,8 @@ Cybersecurity enthusiast passionate about building **real-world security skills*
 - Root **50+ labs**  
 - Build practical security tools  
 - Earn first bug bounty  
-- Contribute to open-source projects  
-- Strengthen vulnerability research skills  
+- Contribute to open-source  
+- Strengthen vulnerability research  
 
 ---
 
