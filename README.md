@@ -94,11 +94,28 @@ Cybersecurity enthusiast passionate about building **real-world security skills*
 
 ## 🎯 2026 Goals
 
+<table>
+<tr>
+
+<td width="60%" align="left">
+
 - Root **50+ labs**  
 - Build practical security tools  
 - Earn first bug bounty  
 - Contribute to open-source  
 - Strengthen vulnerability research  
+
+</td>
+
+<td width="40%" align="right">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGgwamd1bGQ2ZnhqeDdmbmY0bW5haHBpbWN0OXJ0b3RtczAwb2FlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xsCevAab5ufj37BeGR/200.webp" width="220"/>
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
