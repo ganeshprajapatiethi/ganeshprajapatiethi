@@ -1,62 +1,32 @@
-<h1 align="center">Ganesh Prajapati</h1>
-<p align="center">
-Cybersecurity Enthusiast • Ethical Hacking • Linux • Python
-</p>
+<h1 align="center">Hi 👋, I'm Ganesh Prajapati</h1>
+<h3 align="center">Cybersecurity Enthusiast | Future Ethical Hacker</h3>
 
 ---
 
-## About
-
-Focused on developing practical skills in cybersecurity, penetration testing, and system security.
-
-Currently investing time in:
-
-- Web Security  
-- Linux  
-- Networking  
-- Python  
-- Bug Bounty Methodology  
-
-Goal → Transition from learner to professional security researcher.
+### 🚀 About Me
+- 🔭 Currently learning **Cybersecurity & Ethical Hacking**
+- 🎯 Goal: Become a Professional Security Researcher
+- 💻 Passionate about Linux, Python, Web Security & Bug Bounty
+- 📚 Consistently building skills through labs, CTFs, and practical projects
+- ⚡ Strong believer in continuous learning
 
 ---
 
-## Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode&theme=dark">
-</p>
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ganesh-prajapati-62665139b)
 
 ---
 
-## GitHub Stats
-
-<p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ganeshprajapatiethi&show_icons=true&theme=dark&hide_border=true">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshprajapatiethi&layout=compact&theme=dark&hide_border=true">
-</p>
+### 🛠 Skills
+![Skills](https://skillicons.dev/icons?i=python,linux,git,github,vscode,bash)
 
 ---
 
-## Activity
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ganeshprajapatiethi&show_icons=true&theme=radical)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshprajapatiethi&theme=github-dark&hide_border=true">
-
----
-
-## Current Focus
-
-- Studying real-world vulnerabilities  
-- Documenting learning  
-- Building small security tools  
-- Practicing labs and CTFs  
-
-Consistency > Motivation.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshprajapatiethi&layout=compact&theme=radical)
 
 ---
 
-## Connect
-
-<a href="https://www.linkedin.com/in/ganesh-prajapati-62665139b">
-LinkedIn
-</a>
+⭐️ *“Stay curious, keep learning, and never stop building.”*
