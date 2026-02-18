@@ -1,8 +1,25 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= CLEAN HEADER ================= -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=GANESH%20PRAJAPATI&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Enthusiast%20|%20Ethical%20Hacker&descAlignY=60"/>
-</p>
+<table width="100%">
+<tr>
+
+<td align="left" width="20%">
+<img src="https://i.gifer.com/origin/17/17f222a3d6247a325b9bc49b388e8b06_w200.webp" width="110"/>
+</td>
+
+<td align="center" width="60%">
+
+# Ganesh Prajapati
+### Cybersecurity Enthusiast | Ethical Hacker
+
+</td>
+
+<td align="right" width="20%">
+<img src="https://i.gifer.com/origin/3a/3ad09d4905511990cccc98d904bd1e94_w200.webp" width="110"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
