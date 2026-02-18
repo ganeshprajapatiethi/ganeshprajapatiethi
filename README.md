@@ -6,10 +6,10 @@
 
 <!-- ================= HEADER WITH SIDE GIFs ================= -->
 
-<table width="100%">
+<table width="60%">
 <tr>
 
-<td align="left" width="100%">
+<td align="left" width="60%">
 <img src="https://i.gifer.com/origin/17/17f222a3d6247a325b9bc49b388e8b06_w200.webp" width="400"/>
 </td>
 
