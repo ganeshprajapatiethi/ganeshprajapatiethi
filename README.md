@@ -6,21 +6,20 @@
 
 <!-- ================= HEADER WITH SIDE GIFs ================= -->
 
-<table width="100%">
+
 <tr>
 
-<td align="left" width="20%">
+<td align="left" width="50%">
 <img src="https://i.gifer.com/origin/17/17f222a3d6247a325b9bc49b388e8b06_w200.webp" width="120"/>
 </td>
 
 
 
-<td align="right" width="20%">
+<td align="right" width="50%">
 <img src="https://i.gifer.com/origin/3a/3ad09d4905511990cccc98d904bd1e94_w200.webp" width="120"/>
 </td>
 
 </tr>
-</table>
 
 
 ---
