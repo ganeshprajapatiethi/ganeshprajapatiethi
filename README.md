@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Ganesh Prajapati</h1>
-<h3 align="center">Cybersecurity Enthusiast | Future Ethical Hacker</h3>
+<h1 align="center">Hi 👋, I'm Ganesh Prajapati </h1>
+<h3 align="center">Future Cybersecurity Expert | Ethical Hacker</h3>
 
 ---
 
 ### 🚀 About Me
 - 🔭 Currently learning **Cybersecurity & Ethical Hacking**
-- 🎯 Goal: Become a Professional Security Researcher
-- 💻 Passionate about Linux, Python, Web Security & Bug Bounty
-- 📚 Consistently building skills through labs, CTFs, and practical projects
-- ⚡ Strong believer in continuous learning
+- 🎯 Goal: Become Top Security Researcher
+- 💻 Love Linux, Python & Bug Bounty
+- ⚡ Fun fact: Never Stop Learning 😈
 
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ganesh-prajapati-62665139b)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)]((https://www.instagram.com/_ganesh_fits_/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ganesh-prajapati-62665139b)
 
 ---
 
 ### 🛠 Skills
-![Skills](https://skillicons.dev/icons?i=python,linux,git,github,vscode,bash)
+![Python](https://skillicons.dev/icons?i=python,linux,git,github,vscode)
 
 ---
 
@@ -29,4 +29,4 @@
 
 ---
 
-⭐️ *“Stay curious, keep learning, and never stop building.”*
+⭐️ From Mr. Hacker — Keep Hacking!
